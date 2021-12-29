@@ -1,7 +1,7 @@
-#include <iostream> //lib
+#include <iostream> //library
 using namespace std;
 
 int main() {
-  cout << "Hello World!"; //print 
+  cout << "Hello World!"; //print statement
   return 0;
 } 
